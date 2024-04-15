@@ -30,6 +30,7 @@ def circulate():
 ## Output:
 ![op1](https://github.com/Ravi-1105/Circulate-the-values-of-N-variables/assets/139841688/f5b699b5-47fb-497c-bff9-f10ea0f8cda3)
 ![op2](https://github.com/Ravi-1105/Circulate-the-values-of-N-variables/assets/139841688/efc08d79-5497-4f95-94ce-0f152402e127)
+![image](https://github.com/Ravi-1105/Circulate-the-values-of-N-variables/assets/139841688/b908c8de-180c-4668-b2bf-525288036e3a)
 
 ## Result:
 Thus the list has been circulated with N values.
